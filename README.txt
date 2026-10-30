@@ -1,1 +1,1 @@
-this is my first git practice repository
+this is my first git practice repository and first git project 
